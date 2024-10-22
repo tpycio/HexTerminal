@@ -19,8 +19,9 @@ Hexadecimal keypad and eight-digit LED display module for use in retro projects 
 | Integrated Circuit | U2         | TM1638, SOP28                                                                                                                  | 1        |
 | LED Display        | U3, U4     | FQY-3641B or similar 4 digit LED display with common anode                                                                     | 2        |
 | Resonator          | Y1         | Passive crystal resonator with frequency adapted to standard serial transmission rates -  11.0592/14.7456/18.432 MHz, SMD 3225 | 1        |
-| Phototransistor    | Q1*        | TEMT6000X01 Light Sensor Phototransistor,  SMD 1204                                                                            | 1*       |
+| Diode              | D1-D8      | 1N4148W, SMD SOD-123                                                                                                           | 8        |
 | Button             | SW1-SW20   | 12x12x7.3mm Tactile Push Button Switch Square with caps                                                                        | 20       |
+| Phototransistor    | Q1*        | TEMT6000X01 Light Sensor Phototransistor,  SMD 1204                                                                            | 1*       |
 | Resistor           | R1-R4, R5* | 10k, SMD 0805                                                                                                                  | 4 (5*)   |
 | Capacitor          | C1-C3      | 100 pF, 50V, SMD 0805                                                                                                          | 3        |
 | Capacitor          | C4, C9     | 10 uF, 10V, SMD 0805                                                                                                           | 2        |
